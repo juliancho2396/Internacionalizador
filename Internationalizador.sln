@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Internationalizador", "Internationalizador\Internationalizador.vbproj", "{9C19DC43-51E7-4249-89BD-5EE83FBB7D96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C19DC43-51E7-4249-89BD-5EE83FBB7D96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C19DC43-51E7-4249-89BD-5EE83FBB7D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C19DC43-51E7-4249-89BD-5EE83FBB7D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C19DC43-51E7-4249-89BD-5EE83FBB7D96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4925C00B-FC8B-4B24-95DD-04290A49AE2C}
+	EndGlobalSection
+EndGlobal

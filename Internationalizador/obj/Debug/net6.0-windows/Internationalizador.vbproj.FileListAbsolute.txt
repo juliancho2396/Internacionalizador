@@ -1,0 +1,17 @@
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\bin\Debug\net6.0-windows\Internationalizador.exe
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\bin\Debug\net6.0-windows\Internationalizador.deps.json
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\bin\Debug\net6.0-windows\Internationalizador.runtimeconfig.json
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\bin\Debug\net6.0-windows\Internationalizador.dll
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\bin\Debug\net6.0-windows\Internationalizador.pdb
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.vbproj.AssemblyReference.cache
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.Form1.resources
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.vbproj.GenerateResource.cache
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.AssemblyInfo.vb
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.vbproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.dll
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\refint\Internationalizador.dll
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.pdb
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\Internationalizador.genruntimeconfig.cache
+C:\Users\julia\source\repos\Internationalizador\Internationalizador\obj\Debug\net6.0-windows\ref\Internationalizador.dll
